@@ -1,0 +1,15 @@
+C:\Users\Oleg Gutsev\Desktop\task1\task1\bin\Debug\task1.exe.config
+C:\Users\Oleg Gutsev\Desktop\task1\task1\bin\Debug\task1.exe
+C:\Users\Oleg Gutsev\Desktop\task1\task1\bin\Debug\task1.pdb
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.csprojAssemblyReference.cache
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\MainWindow.g.cs
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\App.g.cs
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1_MarkupCompile.cache
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1_MarkupCompile.lref
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\MainWindow.baml
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.g.resources
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.Properties.Resources.resources
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.exe
+C:\Users\Oleg Gutsev\Desktop\task1\task1\obj\Debug\task1.pdb

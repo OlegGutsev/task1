@@ -1,0 +1,27 @@
+﻿<Window x:Class="task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="611.067" Width="1195.122">
+    <Window.Resources>
+        <Style x:Key="BlackAndYellow">
+            <Setter Property="Control.FontStyle" Value="Italic" />
+            <Setter Property="Control.Background" Value="Black" />
+            <Setter Property="Control.Foreground" Value="Yellow"/>
+            <Setter Property="Control.Margin" Value="20" />
+        </Style>
+    </Window.Resources>
+    <StackPanel x:Name="buttonsStack" Background="Black" >
+        <Button x:Name="button1" Content="Кнопка 1"
+                Style="{StaticResource BlackAndYellow}" Click="button1_Click" />
+        <Button x:Name="button2" Content="Кнопка 2"
+                Style="{StaticResource BlackAndYellow}" Click="button2_Click"/>
+        <Button x:Name="button3" Content="Кнопка 3"
+                Style="{DynamicResource BlackAndYellow}" Click="button3_Click" />
+        <Button x:Name="button4" Content="Кнопка 4"
+                Style="{DynamicResource BlackAndYellow}" Click="button4_Click"/>
+    </StackPanel>
+</Window>
